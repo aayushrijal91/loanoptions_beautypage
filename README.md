@@ -1,4 +1,4 @@
-# Landing page [LoanOptions.ai](https://www.loanoptions.ai)
+# Landing page [LoanOptions.ai Beauty](https://www.loanoptions.ai)
 
 This is a landing page boilerplate that uses PHP scripting language
 
