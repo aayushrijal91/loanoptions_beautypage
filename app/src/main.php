@@ -39,55 +39,56 @@
                         <div class="text-white fs-32 fw-700 ls-2 text-capitalize text-center text-md-start">Compare Beauty Equipment Loans Online</div>
                         <div class="text-white fs-20 pb-5 pt-3 text-center text-md-start">Compare realistic loan options with powerful data & AI matching technology</div>
                         <div class="form_wrapper rounded-20 bg-white mt-3 loanwidget" id="loanwidgetwrap">
-
                             <div class="fieldgroup loanwidgetfieldgroup fieldgroup-1">
                                 <div class="d-flex align-items-center justify-content-between mb-4">
-                                    <p class="fw-900 h2 text-primary mb-0">Starting Your Beauty Loan<span class="text-quaternary">.</span></p>
-                                </div>
-                                <div id="" class="rangeform mb-5 position-relative">
-                                    <div class="d-flex text-grey fs-64 fw-900 mb-3">
-                                        <div>$</div>
-                                        <div class="flex-1">
-                                            <input id="borrowtext" type="text" min="1000" max="30000" class="text border-0  text-grey fw-900 w-100">
-                                        </div>
+                                    <p class="fw-900 h2 text-primary mb-0">How much do you want to borrow?</p>
+                                    <div class="fieldgroupprev btn bg-opacity-25 bg-primary-light text-primary px-4 py-2 border-none rounded-pill">
+                                        <svg width="18" height="14" viewBox="0 0 18 14" fill="none" xmlns="http://www.w3.org/2000/svg">
+                                            <path d="M1 7H17M1 7L6.81818 13M1 7L6.81818 1" stroke="#161529" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" />
+                                        </svg>
                                     </div>
-                                    <div class="row align-items-center">
-                                        <div class="col">
-                                            <input type="range" min="5000" max="100000" value="50000" step="5000" class="w-100 slider" id="borrowrange">
+                                </div>
+                                <div class="rangeform mb-5 position-relative">
+                                    <div class="row g-0 text-grey fs-64 fw-900 mb-3">
+                                        <div class="col-auto">
+                                            <span class="">$</span>
+                                        </div>
+                                        <div class="col-8">
+                                            <input id="borrowtext" type="text" min="1000" max="30000" class="text border-0  text-grey fw-900 mw-100">
                                         </div>
                                         <div class="col-3">
                                             <a href="javascript:void(0)" class="btn btn-secondary text-white fw-900 rounded-pill px-lg-4 p-2 py-lg-3 w-100 fieldgroupnext">Continue</a>
                                         </div>
                                     </div>
+                                    <input type="range" min="5000" max="100000" value="50000" step="5000" class="w-100 slider" id="borrowrange">
                                 </div>
                             </div>
                             <div class="fieldgroup loanwidgetfieldgroup fieldgroup-3 hidden">
                                 <div class="d-flex align-items-center justify-content-between mb-4">
                                     <p class="fw-900 h2 text-primary mb-0">What’s your preferred loan term?</p>
+                                    <div class="fieldgroupprev btn bg-opacity-25 bg-primary-light text-primary px-4 py-2 border-none rounded-pill">
+                                        <svg width="18" height="14" viewBox="0 0 18 14" fill="none" xmlns="http://www.w3.org/2000/svg">
+                                            <path d="M1 7H17M1 7L6.81818 13M1 7L6.81818 1" stroke="#161529" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" />
+                                        </svg>
+                                    </div>
                                 </div>
                                 <div id="" class="rangeform  mb-5">
-                                    <div class="row gx-0 text-grey align-items-center mb-3">
-                                        <div class="col-1">
-                                            <input id="yeartext" type="text" min="1" max="7" class="fs-64 fw-900 text border-0 text-grey w-100">
+                                    <div class="row text-grey  gx-0  align-items-center mb-3">
+                                        <div class="col-auto col-lg-1 text-col">
+                                            <input id="yeartext" type="text" min="1" max="7" class="fs-64 fw-900  text border-0  text-grey fw-900 mw-100">
                                         </div>
-                                        <div class="col">
-                                            <div class="fs-64 fw-900">years</div>
-                                        </div>
-                                    </div>
-                                    <div class="row align-items-center">
-                                        <div class="col">
-                                            <input type="range" min="1" max="7" value="5" step="1" class="w-100 slider" id="yearrange">
+                                        <div class="col-8">
+                                            <span class="fs-64 fw-900 ">years</span>
                                         </div>
                                         <div class="col-3">
                                             <a href="javascript:void(0)" class="btn btn-secondary text-white fw-900 rounded-pill px-lg-4 p-2 py-lg-3 w-100 fieldgroupprev-2">Continue</a>
                                         </div>
                                     </div>
+                                    <input type="range" min="1" max="7" value="5" step="1" class="w-100 slider" id="yearrange">
                                 </div>
                             </div>
                             <div class="fieldgroup loanwidgetfieldgroup fieldgroup-4 hidden">
-                                <div class="d-flex align-items-center justify-content-between mb-4">
-                                    <p class="fw-900 h2 text-primary mb-0">Is this going to be for personal or business use?</p>
-                                </div>
+                                <div class="fs-32 ls-2 fw-900 pb-4 lh-1 pb-3">Is this going to be for personal or business use?</div>
                                 <div class="row align-items-center">
                                     <div class="col-8">
                                         <select class="form-select form-control" aria-label="Default select example">

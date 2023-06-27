@@ -298,6 +298,10 @@ header {
                 padding: 150px 20px 40px;
             }
 
+            @include media-breakpoint-down(sm) {
+                background: linear-gradient(180deg, rgba(0,0,0,0), #211D1E), imgUrl('banner_right.jpg') center top;
+            }
+
             .arrow {
                 position: absolute;
                 top: 38%;
