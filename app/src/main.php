@@ -97,7 +97,7 @@
                                         </select>
                                     </div>
                                     <div class="col-4">
-                                        <a href="javascript:void(0)" class="btn btn-secondary text-white fw-900 rounded-pill px-lg-4 p-2 py-lg-3 w-100 loanwidgetsubmit">Compare Car Loans</a>
+                                        <a href="javascript:void(0)" class="btn btn-secondary text-white fw-900 rounded-pill px-lg-4 p-2 py-lg-3 w-100 loanwidgetsubmit">Compare Loans</a>
                                     </div>
                                 </div>
                             </div>
@@ -285,7 +285,7 @@
                     <div class="row justify-content-between align-items-md-center h-100 gx-xl-5">
                         <div class="col-lg-7">
                             <div class="fs-64 ls-2 fw-800 lh-1 pb-3">Secured<span class="text-quaternary">.</span></div>
-                            <p class="fs-20 text-dark-grey pt-md-4 description">A secured loan uses the asset being purchased meaning collateral, in this case the car, as security for the loan. If you the borrower can’t repay the loan, the lender can reclaim the asset to cover the costs. Although if the sale of the asset doesn’t cover the full amount owing, the borrower must pay the difference.</p>
+                            <p class="fs-20 text-dark-grey pt-md-4 description">A secured loan uses the asset being purchased meaning collateral, in this case the equipments, as security for the loan. If you the borrower can’t repay the loan, the lender can reclaim the asset to cover the costs. Although if the sale of the asset doesn’t cover the full amount owing, the borrower must pay the difference.</p>
                             <p class="fs-20 text-dark-grey description">The benefits of a secured loan is that usually it comes with a lower and fixed rates, as the risk to your lender is lower.</p>
                         </div>
                         <div class="col">
@@ -299,7 +299,7 @@
                             <div class="fs-64 ls-2 fw-800 lh-1 pb-3">Unsecured<span class="text-quaternary">.</span></div>
                             <p class="fs-20 text-dark-grey pt-md-4 description">In an unsecured loan scenario the lender does not use any assets as a security
                                 (no collateral). This comes with a higher charge interest rates when compared to secured as the risk is more for the lender.</p>
-                            <p class="fs-20 text-dark-grey description">These types of loans are not generally for cars, because you can usually save money by using the vehicle as security. Some situations that an unsecured loan might be useful for a car, is if the car being purchased is not an acceptable asset for that specific lender, if the asset is too old or even if you wish to borrow more than the actual purchase price by a substantial amount to cover costs or customisations to the car.</p>
+                            <p class="fs-20 text-dark-grey description">These types of loans are not generally for beauty equipments, because you can usually save money by using the vehicle as security. Some situations that an unsecured loan might be useful for a beauty equipment, is if the equipment being purchased is not an acceptable asset for that specific lender, if the asset is too old or even if you wish to borrow more than the actual purchase price by a substantial amount to cover costs or customisations to the equipment.</p>
                         </div>
                         <div class="col">
                             <div class="rounded-20 bg-grey w-100 h-100 py-4 d-flex justify-content-center"><?= renderImg("unsecure-lock.png", "lib") ?></div>
