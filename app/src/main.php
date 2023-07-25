@@ -92,8 +92,7 @@
                                 <div class="row align-items-center">
                                     <div class="col-8">
                                         <select class="form-select form-control" aria-label="Default select example">
-                                            <option value selected>Personal</option>
-                                            <option>Business</option>
+                                            <option selected>Business</option>
                                         </select>
                                     </div>
                                     <div class="col-4">
